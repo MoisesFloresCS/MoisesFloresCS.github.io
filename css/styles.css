@@ -1,26 +1,43 @@
 
+b,li
+{
+    color: #ed2788;
+}
+
+.Project_List a
+{
+    color: #ed2788;
+}
+
+#Fav_Music p
+{
+    color: #3470d1;
+}
+
+#Fav_Music i
+{
+    color: #ed2788 !important
+}
+
+.Email_Section a
+{
+    color: #ed2788;
+}
+
+h1, h2, a, figcaption
+{
+    color: rgb(221, 215, 215);
+}
+
 p
 {
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    color: darkblue;
+    color: #3470d1;
 }
 
-b
+html
 {
-    color: palevioletred;
-}
-
-li
-{
-    color:black
-}
-
-figcaption
-{
-    color: black;
-}
-
-a
-{
-    color: black;
+    background-color: rgb(26, 25, 25);     /* rgb 59, 57, 57 */
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 1.4em;
+    text-align: left;
 }
